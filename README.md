@@ -1,4 +1,4 @@
-<h3>AMAÇ</h3>
+<h3>Amaç</h3>
 <p>Proje içerisinde TypeScript ile API isteklerini nasıl yönetebileceğimiz konusunda örnek bir tasarım oluşturmak.</p>
 
 <h2>Repository</h2>
