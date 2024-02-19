@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES2015",
+      "module": "ESNext",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "./dist", // TypeScript dosyalarının derlendiği hedef dizin,
+      "moduleResolution": "node"
+    },
+    "include": [
+      "./Repository/**/*.ts", // Repository dizinindeki tüm TypeScript dosyalarını içerir
+      "./Services/**/*.ts" // Services dizinindeki tüm TypeScript dosyalarını içerir
+    ],
+    "exclude": [
+      "node_modules" // Derlenmeyecek dosyaları içeren dizinler
+    ]
+  }
